@@ -241,7 +241,7 @@ export default function ContactPage() {
                   </h4>
                   <div className="space-y-3">
                     <a
-                      href="https://wa.me/+923286557992"
+                      href="https://wa.me/03286557992"
                       target="_blank"
                       rel="noopener noreferrer"
                       className="block"
@@ -292,7 +292,7 @@ export default function ContactPage() {
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <a
-                href="https://wa.me/15551234567"
+                href="https://wa.me/03286557992"
                 target="_blank"
                 rel="noopener noreferrer"
               >
@@ -301,7 +301,7 @@ export default function ContactPage() {
                   Chat on WhatsApp
                 </Button>
               </a>
-              <a href="mailto:hello@codejinx.com">
+              <a href="mailto:mustafa39078@gmail.com">
                 <Button
                   variant="outline"
                   className="border-neon-purple text-neon-purple hover:bg-neon-purple/10 font-paragraph px-8 py-6 rounded-lg"
