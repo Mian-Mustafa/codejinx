@@ -43,7 +43,7 @@ export default function ContactPage() {
     {
       icon: Mail,
       title: 'Email',
-      value: 'hello@codejinx.com',
+      value: 'programmingworld804@gmail.com',
       link: 'mailto:hello@codejinx.com',
     },
     {
