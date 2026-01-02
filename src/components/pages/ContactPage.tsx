@@ -241,7 +241,7 @@ export default function ContactPage() {
                   </h4>
                   <div className="space-y-3">
                     <a
-                      href="https://wa.me/15551234567"
+                      href="https://wa.me/+923286557992"
                       target="_blank"
                       rel="noopener noreferrer"
                       className="block"
@@ -255,7 +255,7 @@ export default function ContactPage() {
                       </Button>
                     </a>
                     <a
-                      href="mailto:hello@codejinx.com"
+                      href="mailto:mustafa39078@gmail.com"
                       className="block"
                     >
                       <Button
