@@ -43,14 +43,14 @@ export default function ContactPage() {
     {
       icon: Mail,
       title: 'Email',
-      value: 'programmingworld804@gmail.com',
-      link: 'mailto:hello@codejinx.com',
+      value: 'mustafa39078@gmail.com',
+      link: 'mailto:mustafa39078@gmail.com',
     },
     {
       icon: Phone,
       title: 'Phone',
-      value: '+1 (555) 123-4567',
-      link: 'tel:+15551234567',
+      value: '+92 3286557992',
+      link: 'tel:+92 3286557992',
     },
     {
       icon: MapPin,
